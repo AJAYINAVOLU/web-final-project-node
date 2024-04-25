@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "module1",
+    "name": "Basics of Programming",
+    "description": "An introductory module for beginners to learn the fundamentals of programming.",
+    "course": "CS101",
+    "lessons": [
+      {
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming languages and how to start writing simple programs.",
+        "module": "module1"
+      },
+      {
+        "name": "Data Types and Variables",
+        "description": "Understanding different data types and how to use variables in programming.",
+        "module": "module1"
+      }
+    ]
+  },
+  {
+    "_id": "module2",
+    "name": "Calculus I",
+    "description": "A comprehensive module on differential calculus.",
+    "course": "MATH301",
+    "lessons": [
+      {
+        "name": "Limits and Continuity",
+        "description": "Explore the concepts of limits and continuity in functions.",
+        "module": "module2"
+      },
+      {
+        "name": "Derivatives",
+        "description": "Introduction to derivatives and methods of differentiation.",
+        "module": "module2"
+      }
+    ]
+  },
+  {
+    "_id": "module3",
+    "name": "Revolutionary Wars",
+    "description": "Detailed exploration of significant revolutionary wars in world history.",
+    "course": "HIST202",
+    "lessons": [
+      {
+        "name": "The American Revolution",
+        "description": "A study of the causes, major events, and outcomes of the American Revolution.",
+        "module": "module3"
+      },
+      {
+        "name": "The French Revolution",
+        "description": "Analysis of the French Revolution from its start through its radical phase and its final outcomes.",
+        "module": "module3"
+      }
+    ]
+  }
+]

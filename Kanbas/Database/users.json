@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "121",
+    "username": "johndoe123",
+    "password": "password123",
+    "firstName": "John",
+    "email": "johndoe@example.com",
+    "lastName": "Doe",
+    "dob": "1990-04-15",
+    "role": "STUDENT",
+    "registeredCourses": ["course1", "course2"]
+  },
+  {
+    "id": "122",
+    "username": "janedoe321",
+    "password": "password321",
+    "firstName": "Jane",
+    "email": "janedoe@example.com",
+    "lastName": "Doe",
+    "dob": "1992-08-23",
+    "role": "FACULTY",
+    "registeredCourses": ["course1"]
+  },
+  {
+    "_id": "123",
+    "username": "adminuser",
+    "password": "securepassword",
+    "firstName": "Admin",
+    "email": "admin@example.com",
+    "lastName": "User",
+    "dob": "1985-12-30",
+    "role": "ADMIN",
+    "registeredCourses": ["course1"]
+  }
+]

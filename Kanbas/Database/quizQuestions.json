@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "Q1",
+    "title": "Basic Programming Concepts",
+    "points": 10,
+    "question": "Which of the following is a valid variable name in most programming languages?",
+    "choices": ["1stName", "_name", "break", "var"],
+    "questionType": "Multiple Choice",
+    "answer": ["_name"]
+  },
+  {
+    "_id": "Q2",
+    "title": "General Science - Water Cycle",
+    "points": 5,
+    "question": "Evaporation in the water cycle is caused by which of the following?",
+    "choices": ["Condensation", "Precipitation", "Sun's heat", "Collection"],
+    "questionType": "Multiple Choice",
+    "answer": ["Sun's heat"]
+  },
+  {
+    "_id": "Q3",
+    "title": "Historical Facts",
+    "points": 15,
+    "question": "The Treaty of Versailles was signed in what year?",
+    "choices": ["1919", "1918", "1920", "1917"],
+    "questionType": "Multiple Choice",
+    "answer": ["1919"]
+  }
+]

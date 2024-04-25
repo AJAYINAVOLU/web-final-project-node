@@ -1,0 +1,20 @@
+[
+  {
+    "quizId": "Quiz 1",
+    "username": "johndoe123",
+    "score": 85,
+    "chosenAnswers": ["_name", "Sun's heat", "1919"]
+  },
+  {
+    "quizId": "Quiz 2",
+    "username": "janedoe321",
+    "score": 92,
+    "chosenAnswers": ["_name", "Sun's heat", "1920"]
+  },
+  {
+    "quizId": "Quiz 3",
+    "username": "adminuser",
+    "score": 78,
+    "chosenAnswers": ["Limits", "Derivatives", "Integrals"]
+  }
+]

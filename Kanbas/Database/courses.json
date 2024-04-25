@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "course1",
+        "name": "Introduction to Computer Science",
+        "number": "CS101",
+        "startDate": "2024-01-15",
+        "endDate": "2024-05-20",
+        "image": "reactjs.jpg"
+    },
+    {
+        "_id": "course2",
+        "name": "Advanced Mathematics",
+        "number": "MATH301",
+        "startDate": "2024-02-10",
+        "endDate": "2024-06-15",
+        "image": "reactjs.jpg"
+    },
+    {
+        "_id": "course3",
+        "name": "Modern World History",
+        "number": "HIST202",
+        "startDate": "2024-03-05",
+        "endDate": "2024-07-10",
+        "image": "reactjs.jpg"
+    }
+]
